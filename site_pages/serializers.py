@@ -5,3 +5,4 @@ class PageSerializer(serializers.ModelSerializer):
     class Meta:
         model = AddPage
         fields = '__all__'
+
